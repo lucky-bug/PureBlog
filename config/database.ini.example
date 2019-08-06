@@ -1,0 +1,16 @@
+[global]
+default = 'dev_db'
+
+[dev_db]
+db_host = 'localhost'
+db_port = '3306'
+db_user = 'root'
+db_pass = ''
+db_name = 'dev_db'
+
+[test_db]
+db_host = 'localhost'
+db_port = '3306'
+db_user = 'test'
+db_pass = 'test'
+db_name = 'test_db'
