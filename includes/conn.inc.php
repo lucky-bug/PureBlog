@@ -14,3 +14,5 @@ if (!$conn) {
 } else {
     echo "Connected";
 }
+
+echo PHP_EOL;
